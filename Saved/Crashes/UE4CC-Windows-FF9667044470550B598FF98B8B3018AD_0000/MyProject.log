@@ -1,0 +1,1158 @@
+﻿Log file open, 04/22/18 10:30:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1732159328) SRandInit(-1732159328).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.122264
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.171s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-U3K421J (192.168.1.124:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.017s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.22-08.30.13:208][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.22-08.30.13:208][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.22-08.30.13:239][  0]LogInit: Computer: DESKTOP-U3K421J
+[2018.04.22-08.30.13:239][  0]LogInit: User: MiguelPelMedina
+[2018.04.22-08.30.13:239][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.22-08.30.13:239][  0]LogInit: High frequency timer resolution =3.117776 MHz
+[2018.04.22-08.30.13:240][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2018.04.22-08.30.13:240][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.22-08.30.13:240][  0]LogMemory: Process Physical Memory: 277.28 MB used, 277.28 MB peak
+[2018.04.22-08.30.13:240][  0]LogMemory: Process Virtual Memory: 265.68 MB used, 265.68 MB peak
+[2018.04.22-08.30.13:240][  0]LogMemory: Physical Memory: 4781.32 MB used,  1301.08 MB free, 6082.40 MB total
+[2018.04.22-08.30.13:240][  0]LogMemory: Virtual Memory: 663.45 MB used,  1301.08 MB free, 134217728.00 MB total
+[2018.04.22-08.30.13:258][  0]LogInit: Using OS detected language (es-ES).
+[2018.04.22-08.30.13:258][  0]LogInit: Using OS detected locale (es-ES).
+[2018.04.22-08.30.13:261][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.04.22-08.30.13:667][  0]LogStreaming: Display: Took  0.409s to EndInitTextLocalization.
+[2018.04.22-08.30.13:668][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.22-08.30.13:708][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.22-08.30.13:708][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.22-08.30.13:950][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.22-08.30.14:000][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 640' (Feature Level 11_0)
+[2018.04.22-08.30.14:000][  0]LogD3D11RHI:       2018/0/3041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.22-08.30.14:002][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.22-08.30.14:002][  0]LogD3D11RHI:       0/0/3041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.22-08.30.14:002][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.22-08.30.14:008][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.22-08.30.14:008][  0]LogD3D11RHI:     GPU DeviceId: 0xfc1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.22-08.30.14:008][  0]LogWindows: EnumDisplayDevices:
+[2018.04.22-08.30.14:008][  0]LogWindows:    0. 'NVIDIA GeForce GT 640' (P:1 D:1)
+[2018.04.22-08.30.14:009][  0]LogWindows:    1. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.22-08.30.14:009][  0]LogWindows:    2. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.22-08.30.14:009][  0]LogWindows:    3. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.22-08.30.14:009][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.22-08.30.14:009][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 640
+[2018.04.22-08.30.14:009][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.22-08.30.14:009][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.22-08.30.14:009][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.04.22-08.30.14:044][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.22-08.30.14:044][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.22-08.30.14:058][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.22-08.30.14:060][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Intermediate/Shaders/WorkingDirectory/3280/).
+[2018.04.22-08.30.14:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MiguelPelMedina/AppData/Local/Temp/UnrealShaderWorkingDir/4C46D7444BCAD0AB0A273781931E08E3/'.
+[2018.04.22-08.30.14:479][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.22-08.30.14:495][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.22-08.30.14:511][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.22-08.30.14:527][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.22-08.30.14:543][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.22-08.30.14:559][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.22-08.30.14:575][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.22-08.30.14:591][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.22-08.30.14:599][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.22-08.30.14:614][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.22-08.30.14:628][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.22-08.30.14:642][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.22-08.30.14:656][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.22-08.30.14:670][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.22-08.30.14:683][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.22-08.30.14:712][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.22-08.30.14:712][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.22-08.30.14:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.22-08.30.14:728][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.22-08.30.14:767][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.22-08.30.14:780][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.22-08.30.14:794][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.22-08.30.14:809][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.22-08.30.14:823][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.22-08.30.14:838][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.22-08.30.14:838][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.22-08.30.14:990][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.22-08.30.14:991][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.22-08.30.14:991][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.22-08.30.15:845][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.22-08.30.15:941][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.22-08.30.15:959][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.22-08.30.15:972][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.22-08.30.15:984][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.22-08.30.15:985][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.22-08.30.15:985][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.22-08.30.15:985][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.22-08.30.16:148][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.04.22-08.30.16:499][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.22-08.30.16:674][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.22-08.30.16:677][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.22-08.30.16:677][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.22-08.30.16:677][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.22-08.30.16:677][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.22-08.30.16:677][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.22-08.30.16:717][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.04.22-08.30.17:403][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.187407 seconds
+[2018.04.22-08.30.17:410][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.22-08.30.17:410][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.22-08.30.17:411][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.22-08.30.19:449][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.22-08.30.19:487][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.22-08.30.19:976][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.22-08.30.19:976][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.22-08.30.20:003][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.22-08.30.20:029][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.22-08.30.20:728][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.22-08.30.20:933][  0]LogOcInput: OculusInput pre-init called
+[2018.04.22-08.30.21:072][  0]LogEngine: Initializing Engine...
+[2018.04.22-08.30.21:074][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.22-08.30.21:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.22-08.30.21:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.22-08.30.21:355][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.22-08.30.21:387][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.22-08.30.21:413][  0]LogInit: FAudioDevice initialized.
+[2018.04.22-08.30.21:575][  0]LogDerivedDataCache: Saved boot cache 0.16s 74MB C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.22-08.30.21:582][  0]LogInit: Texture streaming: Enabled
+[2018.04.22-08.30.21:608][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.22-08.30.21:654][  0]LogInit: Transaction tracking system initialized
+[2018.04.22-08.30.21:696][  0]BlueprintLog: New page: Cargar el editor
+[2018.04.22-08.30.21:847][  0]LocalizationService: Localization service is disabled
+[2018.04.22-08.30.22:013][  0]LogConsoleResponse: Display: 
+[2018.04.22-08.30.22:358][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.22-08.30.22:358][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.22-08.30.22:359][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.22-08.30.22:359][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.22-08.30.22:359][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.22-08.30.22:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/' took 0.07s
+[2018.04.22-08.30.22:949][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.22-08.30.22:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.22-08.30.22:949][  0]LightingResults: New page: Diseñar la iluminación
+[2018.04.22-08.30.22:953][  0]MapCheck: New page: Revisión del mapa
+[2018.04.22-08.30.22:953][  0]LightingResults: New page: Diseñar la iluminación
+[2018.04.22-08.30.29:086][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [57.389305ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.22-08.30.29:556][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.22-08.30.29:779][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.22-08.30.29:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.22-08.30.29:939][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103,698ms to complete.
+[2018.04.22-08.30.29:940][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.991
+[2018.04.22-08.30.30:474][  0]LogCollectionManager: Loaded 0 collections in 0.013629 seconds
+[2018.04.22-08.30.30:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Collections/' took 0.01s
+[2018.04.22-08.30.30:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/Developers/MiguelPelMedina/Collections/' took 0.01s
+[2018.04.22-08.30.30:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/Collections/' took 0.01s
+[2018.04.22-08.30.30:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.22-08.30.30:606][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2452 classes and 558 folders.
+[2018.04.22-08.30.30:684][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.22-08.30.31:286][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.22-08.30.31:318][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.22-08.30.31:532][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.22-08.30.31:535][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.22-08.30.31:562][  0]LogSlate: Took 0.011273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.22-08.30.31:824][  0]LogRenderer: Reallocating scene render targets to support 868x456 Format 10 NumSamples 1 (Frame:1).
+[2018.04.22-08.30.31:964][  0]LogSlate: Took 0.014455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.22-08.30.32:078][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.22-08.30.32:079][  0]LogLoad: (Engine Initialization) Total time: 23.66 seconds
+[2018.04.22-08.30.32:079][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.22-08.30.32:527][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.22-08.30.33:230][  2]LogAssetRegistry: Asset discovery search completed in 17.1037 seconds
+[2018.04.22-08.30.33:233][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.22-08.30.33:234][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.04.22-08.30.33:555][  3]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.22-08.31.33:461][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-08.31.34:191][224]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.22-08.31.36:211][224]LogSlate: Took 0.015487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.22-08.31.37:003][225]LogSlate: Took 0.022297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.22-08.31.39:816][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.22-08.31.39:849][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.31.39:869][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.22-08.31.39:914][456]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (22/4/2018 12:31:39)
+[2018.04.22-08.31.39:914][456]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.22-08.31.39:972][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058106s)
+[2018.04.22-08.31.39:974][456]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.22-08.31.39:974][456]LogPlayLevel: PIE: World Init took: (0.001735s)
+[2018.04.22-08.31.39:974][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.060113s)
+[2018.04.22-08.31.40:048][456]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.22-08.31.40:064][456]LogInit: FAudioDevice initialized.
+[2018.04.22-08.31.40:136][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.22-08.31.40:168][456]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.22-10.31.40
+[2018.04.22-08.31.40:248][456]LogWorld: Bringing up level for play took: 0.099877
+[2018.04.22-08.31.40:304][456]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.04.22-08.31.40:348][456]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,143
+[2018.04.22-08.31.40:348][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.31.45:840][867]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:851][867]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:851][867]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:852][867]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:852][867]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:852][867]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:852][867]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:853][867]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:853][867]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:853][867]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:853][867]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:854][867]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:854][867]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:854][867]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:854][867]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:855][867]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:855][867]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:855][867]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:855][867]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.45:856][867]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.31.58:845][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.31.58:964][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.31.59:977][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-08.32.53:744][841]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.22-08.32.53:774][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.32.53:775][841]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.22-08.32.53:856][841]LogPlayLevel: [PlayLevel] Compiling MenuInterface before play...
+[2018.04.22-08.32.54:175][841]LogPlayLevel: PlayLevel: Blueprint regeneration took 400 ms (1 blueprints)
+[2018.04.22-08.32.54:175][841]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (22/4/2018 12:32:54)
+[2018.04.22-08.32.54:176][841]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.22-08.32.54:207][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031749s)
+[2018.04.22-08.32.54:209][841]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.22-08.32.54:211][841]LogPlayLevel: PIE: World Init took: (0.003780s)
+[2018.04.22-08.32.54:211][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035926s)
+[2018.04.22-08.32.54:248][841]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.22-08.32.54:264][841]LogInit: FAudioDevice initialized.
+[2018.04.22-08.32.54:306][841]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.22-08.32.54:318][841]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.22-10.32.54
+[2018.04.22-08.32.54:320][841]LogWorld: Bringing up level for play took: 0.013598
+[2018.04.22-08.32.54:326][841]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,121
+[2018.04.22-08.32.54:326][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.32.54:386][841]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.22-08.32.55:673][896]LogRenderer: Reallocating scene render targets to support 1600x836 Format 10 NumSamples 1 (Frame:57).
+[2018.04.22-08.32.59:196][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:197][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:197][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:197][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:198][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:198][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:198][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:198][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:199][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:199][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:199][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:199][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:200][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:200][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:200][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:200][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:201][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:201][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:201][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.32.59:201][ 14]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:188][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-08.33.03:269][164]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2018.04.22-08.33.03:281][164]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:111D
+[2018.04.22-08.33.03:289][164]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: DestroyActor in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2018.04.22-08.33.03:289][164]LogScriptCore: Warning: Script Msg: Attempted to remove an item from an invalid index from array Inventory [0/0]!
+[2018.04.22-08.33.03:289][164]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:289][164]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:290][164]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:290][164]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:290][164]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:290][164]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:291][164]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:291][164]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:291][164]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:291][164]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:292][164]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:292][164]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:292][164]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:292][164]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:293][164]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:293][164]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:293][164]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:293][164]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:294][164]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:294][164]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:294][164]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Inventory_item_C_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.22-08.33.03:731][181]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2018.04.22-08.33.03:731][181]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:111D
+[2018.04.22-08.33.03:732][181]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: DestroyActor in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2018.04.22-08.33.03:732][181]LogScriptCore: Warning: Script Msg: Attempted to remove an item from an invalid index from array Inventory [0/0]!
+[2018.04.22-08.33.03:733][181]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:734][181]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:734][181]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:734][181]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:734][181]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:735][181]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:735][181]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:735][181]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:735][181]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:736][181]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:736][181]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:736][181]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:736][181]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:736][181]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:737][181]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:737][181]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:738][181]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:738][181]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:738][181]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:738][181]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-08.33.03:739][181]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_Inventory_item_C_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.22-08.33.04:294][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.33.04:320][201]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.22-08.33.04:355][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-08.33.09:528][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-08.33.12:261][901]LogSavePackage: Save=52.79ms
+[2018.04.22-08.33.12:261][901]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/MenuInterface6AEF32BF469D3C07ACC3318FAAD8FA24.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset'
+[2018.04.22-08.33.12:270][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset
+[2018.04.22-08.36.00:529][438]LogSavePackage: Save=3.74ms
+[2018.04.22-08.36.00:529][438]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ItemStructF140127E418973E18A53BAB387B8E082.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset'
+[2018.04.22-08.36.00:536][438]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset
+[2018.04.22-08.36.12:900][865]LogSavePackage: Save=3.64ms
+[2018.04.22-08.36.12:900][865]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ItemStructABA59137431F56E655CA2897A115FEE4.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset'
+[2018.04.22-08.36.12:906][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset
+[2018.04.22-08.36.13:887][975]LogSlate: Took 0.013514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.22-08.37.10:716][176]LogSavePackage: Save=3.57ms
+[2018.04.22-08.37.10:716][176]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ItemStruct8B45C10F485E9519CDBE11913B49778E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset'
+[2018.04.22-08.37.10:767][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ItemStruct.uasset
+[2018.04.22-08.37.13:536][487]BlueprintLog: New page: Compilar MenuInterface
+[2018.04.22-08.37.51:774][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-08.38.27:993][239]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-08.39.01:750][588]BlueprintLog: New page: Compilar BP_item
+[2018.04.22-08.39.05:557][946]LogSavePackage: Save=16.87ms
+[2018.04.22-08.39.05:557][946]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_item6149F751414908F5AE6A85B62726B3C5.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset'
+[2018.04.22-08.39.05:564][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset
+[2018.04.22-08.40.12:608][929]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/InteractableVariables.InteractableVariables' ref from Metadata '/Game/ThirdPersonBP/Blueprints/InteractableVariables.PackageMetaData'
+[2018.04.22-08.40.12:608][929]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/InteractableVariables.InteractableVariables:dot_2_6140999E4AC4AA83B63CB1A4ADBB64E7' ref from Metadata '/Game/ThirdPersonBP/Blueprints/InteractableVariables.PackageMetaData'
+[2018.04.22-08.40.12:608][929]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/InteractableVariables.InteractableVariables:Interactable_5_5F1D49C848A3574171E2BC96EACB0829' ref from Metadata '/Game/ThirdPersonBP/Blueprints/InteractableVariables.PackageMetaData'
+[2018.04.22-08.40.12:653][929]LogSavePackage: Save=2.89ms
+[2018.04.22-08.40.12:653][929]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InteractableVariablesD071D56C4DA7AD4ABDFC039FF2C679DA.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InteractableVariables.uasset'
+[2018.04.22-08.40.12:668][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InteractableVariables.uasset
+[2018.04.22-08.40.13:099][929]LogSavePackage: Save=189.54ms
+[2018.04.22-08.40.13:100][929]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter7F1AA17C45CB6220DA206D999D1A38F3.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.22-08.40.13:106][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:PrecioVenta_32_9FC6F9384219D741ADA029B02D736509' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:PrecioCompra_31_B28F9AFC4049BADE82E636B586A1BD76' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:itemClass_16_7D28621F460CCDF6160F51B4164CA942' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:Imagen_20_7F1DAD134E77D37A2077CB9D2E8F9B76' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:Descripcion_10_3D92D41646EFA8A89DA99787A6D7BDF0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:280][163]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.ItemStruct:nombre_3_B4296C6640793FC511C4158672FFAC1C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ItemStruct.PackageMetaData'
+[2018.04.22-08.40.16:321][163]LogSavePackage: Save=4.29ms
+[2018.04.22-08.40.16:321][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ItemStruct14205AA641286C9B349472A790415ACC.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.uasset'
+[2018.04.22-08.40.16:328][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.uasset
+[2018.04.22-08.40.16:627][163]LogSavePackage: Save=16.59ms
+[2018.04.22-08.40.16:627][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_interactable449D38A0448B337913F20F89B4EB48C5.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_interactable.uasset'
+[2018.04.22-08.40.16:634][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_interactable.uasset
+[2018.04.22-08.40.16:690][163]LogSavePackage: Save=34.23ms
+[2018.04.22-08.40.16:690][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_StoreNPCFCC1A53F47603A46654B92A63484863F.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_StoreNPC.uasset'
+[2018.04.22-08.40.16:697][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_StoreNPC.uasset
+[2018.04.22-08.40.16:727][163]LogSavePackage: Save=7.14ms
+[2018.04.22-08.40.16:727][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InteractInterfaceE08BF6D94A2FC2716BC552916A62A49B.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/InteractInterface.uasset'
+[2018.04.22-08.40.16:733][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/InteractInterface.uasset
+[2018.04.22-08.40.16:785][163]LogSavePackage: Save=27.70ms
+[2018.04.22-08.40.16:785][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/UI_Inventory_itemDA3120064B2ECC5680872B9B34D4C5A6.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.uasset'
+[2018.04.22-08.40.16:792][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.uasset
+[2018.04.22-08.40.16:852][163]LogSavePackage: Save=36.73ms
+[2018.04.22-08.40.16:852][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_Interf5164561F4DBD313279820C854D701F88.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset'
+[2018.04.22-08.40.16:860][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset
+[2018.04.22-08.40.16:916][163]LogSavePackage: Save=33.96ms
+[2018.04.22-08.40.16:916][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotSellB8F154504AB531B1200387AD7424C80B.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset'
+[2018.04.22-08.40.16:924][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset
+[2018.04.22-08.40.16:994][163]LogSavePackage: Save=47.99ms
+[2018.04.22-08.40.16:994][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotShop786A13F14EC5EAF911D4929B36FDD969.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset'
+[2018.04.22-08.40.17:002][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset
+[2018.04.22-08.40.17:047][163]LogSavePackage: Save=23.85ms
+[2018.04.22-08.40.17:047][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/MenuInterface96553F9A457ADC736F207DAC60194F9C.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset'
+[2018.04.22-08.40.17:054][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset
+[2018.04.22-08.40.17:087][163]LogSavePackage: Save=14.76ms
+[2018.04.22-08.40.17:087][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_item7438F66346925316019D0F87B3DCC65F.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset'
+[2018.04.22-08.40.17:095][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset
+[2018.04.22-08.40.17:319][163]LogSavePackage: Save=178.33ms
+[2018.04.22-08.40.17:319][163]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacterDA30C6F44583F5127FEA989215467614.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.22-08.40.17:326][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.22-08.40.19:530][328]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.InventoryStruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/InventoryStruct.PackageMetaData'
+[2018.04.22-08.40.19:530][328]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.InventoryStruct:MemberVar_0_91A3DCDB4A9D000717C5CCAE2B7A0855' ref from Metadata '/Game/ThirdPersonBP/Blueprints/InventoryStruct.PackageMetaData'
+[2018.04.22-08.40.19:554][328]LogSavePackage: Save=2.63ms
+[2018.04.22-08.40.19:554][328]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InventoryStruct21F7AB8D47FDDDCC8E5DE3B8999E89CC.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset'
+[2018.04.22-08.40.19:560][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset
+[2018.04.22-08.41.09:958][987]LogSavePackage: Save=3.39ms
+[2018.04.22-08.41.09:959][987]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InventoryStruct67114F384AE7A42D266F9F9A89128A8E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset'
+[2018.04.22-08.41.09:965][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset
+[2018.04.22-08.41.11:425][119]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.41.11:428][119]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.41.23:779][109]BlueprintLog: New page: Compilar BP_StoreNPC
+[2018.04.22-08.41.43:844][ 23]BlueprintLog: New page: Compilar SlotShop
+[2018.04.22-08.43.19:588][627]BlueprintLog: New page: Compilar SlotShop
+[2018.04.22-08.43.19:625][627]LogBlueprint: Error: [Compiler SlotShop] This blueprint (self) is not a TextBlock, therefore ' Meta ' must have a connection.
+[2018.04.22-08.43.19:691][627]LogBlueprint: Warning: [Compiler SlotShop] [0791,27] Compile of SlotShop failed. 1 Fatal Issue(s) 0 Warning(s) [in 102 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.SlotShop)
+[2018.04.22-08.43.45:777][620]BlueprintLog: New page: Compilar SlotShop
+[2018.04.22-08.43.46:676][698]LogSavePackage: Save=40.04ms
+[2018.04.22-08.43.46:676][698]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotShop8E5002A44D30F164C4AA49ACFB198D1D.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset'
+[2018.04.22-08.43.46:684][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset
+[2018.04.22-08.44.50:272][743]BlueprintLog: New page: Compilar SlotSell
+[2018.04.22-08.44.51:201][823]LogSavePackage: Save=33.71ms
+[2018.04.22-08.44.51:201][823]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotSellFEC48F4B44EE3272D60E46AC82589E5D.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset'
+[2018.04.22-08.44.51:208][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset
+[2018.04.22-08.45.00:104][739]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-08.45.00:602][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Armadura Arma Tipo  no longer exists on node  Ajustar . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:602][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Armadura Otro Tipo  no longer exists on node  Ajustar . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:602][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Armadura Cuerpo Tipo  no longer exists on node  Ajustar . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:603][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Tipo  no longer exists on node  Romper ItemStruct . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:603][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Armadura Cabeza Tipo  no longer exists on node  Ajustar . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:603][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Tipo  no longer exists on node  Romper ItemStruct . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:615][739]LogBlueprint: Error: [Compiler UI_Inventory_item] In use pin  Item Index  no longer exists on node  Romper ItemStruct . Please refresh node or break links to remove pin.
+[2018.04.22-08.45.00:641][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to find a struct member for  Tipo
+[2018.04.22-08.45.00:641][739]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Failed to find a struct member for  Tipo
+[2018.04.22-08.45.00:645][739]LogBlueprint: Error: [Compiler UI_Inventory_item] Failed to find a struct member for  Item Index
+[2018.04.22-08.45.00:687][739]LogBlueprint: Warning: [Compiler UI_Inventory_item] [0892,27] Compile of UI_Inventory_item failed. 2 Fatal Issue(s) 0 Warning(s) [in 527 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.UI_Inventory_item)
+[2018.04.22-08.45.02:185][739]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0893,76] Compile of ThirdPersonCharacter failed. 8 Fatal Issue(s) 0 Warning(s) [in 2.081 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.04.22-08.45.34:145][415]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.22-08.45.34:658][416]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.22-08.46.48:456][ 26]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-08.47.33:154][ 52]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-08.47.35:340][146]LogSavePackage: Save=156.23ms
+[2018.04.22-08.47.35:340][146]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter999EC87C4AB5A26243AA2E8379E12C0B.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.22-08.47.35:349][146]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.22-08.47.38:702][513]BlueprintLog: New page: Compilar UI_Inventory_item
+[2018.04.22-08.47.38:727][513]LogBlueprint: Error: [Compiler UI_Inventory_item] In use pin  Item Index  no longer exists on node  Romper ItemStruct . Please refresh node or break links to remove pin.
+[2018.04.22-08.47.38:727][513]LogBlueprint: Error: [Compiler UI_Inventory_item] Failed to find a struct member for  Item Index
+[2018.04.22-08.47.38:761][513]LogBlueprint: Warning: [Compiler UI_Inventory_item] [1050,34] Compile of UI_Inventory_item failed. 2 Fatal Issue(s) 0 Warning(s) [in 59 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.UI_Inventory_item)
+[2018.04.22-08.47.39:440][529]LogSavePackage: Save=377.13ms
+[2018.04.22-08.47.39:440][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_Auto1E8F74A2F4B7A69232B1F46B6ABE13703.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.22-08.47.39:450][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.22-08.47.39:467][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.518
+[2018.04.22-08.47.39:467][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.518
+[2018.04.22-08.47.39:472][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Armor] ([1] browsable assets)...
+[2018.04.22-08.47.39:472][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Armor]
+[2018.04.22-08.47.39:508][529]LogSavePackage: Save=9.03ms
+[2018.04.22-08.47.39:508][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Armor_Auto1466183F840FCBBA820558AB9EA294D3E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto1.uasset'
+[2018.04.22-08.47.39:516][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto1.uasset
+[2018.04.22-08.47.39:519][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Consumible] ([1] browsable assets)...
+[2018.04.22-08.47.39:519][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Consumible]
+[2018.04.22-08.47.39:548][529]LogSavePackage: Save=11.70ms
+[2018.04.22-08.47.39:548][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Consumible_Auto165F29EA1433146A53D994ABC0770339C.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto1.uasset'
+[2018.04.22-08.47.39:552][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto1.uasset
+[2018.04.22-08.47.39:554][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_TalkingNPC] ([1] browsable assets)...
+[2018.04.22-08.47.39:554][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_TalkingNPC]
+[2018.04.22-08.47.39:603][529]LogSavePackage: Save=28.19ms
+[2018.04.22-08.47.39:604][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_TalkingNPC_Auto1B4B4C71446909494F01F74A0276AE340.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_TalkingNPC_Auto1.uasset'
+[2018.04.22-08.47.39:618][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_TalkingNPC_Auto1.uasset
+[2018.04.22-08.47.39:620][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/cascoBasico] ([1] browsable assets)...
+[2018.04.22-08.47.39:620][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/cascoBasico]
+[2018.04.22-08.47.39:646][529]LogSavePackage: Save=9.11ms
+[2018.04.22-08.47.39:646][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/cascoBasico_Auto1AA2C2AA341218B91951318B1772D0E61.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto1.uasset'
+[2018.04.22-08.47.39:650][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto1.uasset
+[2018.04.22-08.47.39:653][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PocionBásica] ([1] browsable assets)...
+[2018.04.22-08.47.39:653][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PocionBásica]
+[2018.04.22-08.47.39:689][529]LogSavePackage: Save=18.50ms
+[2018.04.22-08.47.39:689][529]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/PocionBásica_Auto14D9390ED44E6549BF843729D0E74B5CB.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto1.uasset'
+[2018.04.22-08.47.39:692][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto1.uasset
+[2018.04.22-08.47.39:692][529]LogFileHelpers: Auto-saving content packages took 0.224
+[2018.04.22-08.48.30:097][928]LogSlate: Window 'Modificar tipo de variable' being destroyed
+[2018.04.22-08.53.20:619][536]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-08.53.20:804][536]LogClass: Warning: Property Inventory of Inventory has a struct type mismatch (tag ItemStruct != prop InventoryStruct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.04.22-08.53.41:214][338]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.53.41:217][338]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.53.44:339][625]LogSlate: Window 'InteractableVariables' being destroyed
+[2018.04.22-08.53.44:343][625]LogSlate: Window 'InteractableVariables' being destroyed
+[2018.04.22-08.53.48:549][  6]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_35' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_35' está vacía
+[2018.04.22-08.53.48:643][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:643][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:643][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:643][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:644][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:644][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:645][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.48:645][  6]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:397][319]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_39' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_39' está vacía
+[2018.04.22-08.53.52:459][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:459][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:459][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:459][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:460][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:460][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:461][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.52:461][319]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:792][478]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_43' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_43' está vacía
+[2018.04.22-08.53.54:851][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:851][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:852][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:852][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:853][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:853][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:853][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.54:853][478]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:891][634]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_47' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_47' está vacía
+[2018.04.22-08.53.56:954][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:954][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:955][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:955][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:955][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:955][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:956][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.56:956][634]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:674][767]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_51' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_51' está vacía
+[2018.04.22-08.53.58:740][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:740][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:740][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:740][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:741][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:741][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:742][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.58:742][767]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:034][773]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_55' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_55' está vacía
+[2018.04.22-08.53.59:102][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:102][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:103][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:103][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:103][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:104][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:104][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:104][773]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:364][776]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_59' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_59' está vacía
+[2018.04.22-08.53.59:436][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:436][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:436][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:436][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:437][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:437][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:438][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.53.59:438][776]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:285][832]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_63' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_63' está vacía
+[2018.04.22-08.54.00:360][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:361][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:361][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:361][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:362][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:362][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:362][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.00:363][832]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:072][876]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_67' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_67' está vacía
+[2018.04.22-08.54.01:153][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:153][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:154][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:154][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:155][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:155][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:155][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:155][876]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:771][910]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_71' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_71' está vacía
+[2018.04.22-08.54.01:853][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:853][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:854][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:854][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:854][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:854][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:855][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.01:855][910]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:547][949]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_75' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_75' está vacía
+[2018.04.22-08.54.02:641][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:641][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:642][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:642][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:643][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:643][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:644][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.02:644][949]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:286][982]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_79' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_79' está vacía
+[2018.04.22-08.54.03:391][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:391][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:392][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:392][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:393][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:393][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:393][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.03:393][982]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:035][ 17]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_InventoryStruct_83' validation: La estructura 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_InventoryStruct_83' está vacía
+[2018.04.22-08.54.04:124][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:124][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCabeza' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:125][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:125][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraCuerpo' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:125][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:126][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraArma' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:126][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.04:126][ 17]LogBlueprint: Warning: [ThirdPersonCharacter] 'ArmaduraOtro' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.04.22-08.54.05:938][150]LogSavePackage: Save=4.02ms
+[2018.04.22-08.54.05:938][150]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ItemStruct749B3C0641B6EC235BBF5A9956E51510.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.uasset'
+[2018.04.22-08.54.05:944][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/ItemStruct.uasset
+[2018.04.22-08.54.07:247][265]LogSlate: Window 'ItemStruct' being destroyed
+[2018.04.22-08.54.07:250][265]LogSlate: Window 'ItemStruct' being destroyed
+[2018.04.22-08.54.16:291][119]LogSavePackage: Save=3.57ms
+[2018.04.22-08.54.16:291][119]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InventoryStruct80FCFA684D95FDFD884CECA34C0F9775.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset'
+[2018.04.22-08.54.16:301][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/StructsYEnums/InventoryStruct.uasset
+[2018.04.22-08.54.20:079][477]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.54.20:082][477]LogSlate: Window 'InventoryStruct' being destroyed
+[2018.04.22-08.54.32:151][574]BlueprintLog: New page: Compilar BP_item
+[2018.04.22-08.54.34:910][778]LogSavePackage: Save=14.98ms
+[2018.04.22-08.54.34:910][778]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_item7CC682AF43B5702B125F878AE88D063D.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset'
+[2018.04.22-08.54.34:916][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_item.uasset
+[2018.04.22-08.54.38:876][173]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-08.54.39:229][173]LogBlueprint: Error: [Compiler SlotSell] In use pin  Inventory  no longer exists on node  Obtener . Please refresh node or break links to remove pin.
+[2018.04.22-08.54.39:235][173]LogBlueprint: Error: [Compiler SlotShop] In use pin  Inventory  no longer exists on node  Obtener . Please refresh node or break links to remove pin.
+[2018.04.22-08.54.39:256][173]LogBlueprint: Error: [Compiler UI_Inventory_item] In use pin  Item Index  no longer exists on node  Romper ItemStruct . Please refresh node or break links to remove pin.
+[2018.04.22-08.54.39:257][173]LogBlueprint: Error: [Compiler UI_Inventory_item] In use pin  Inventory  no longer exists on node  Obtener . Please refresh node or break links to remove pin.
+[2018.04.22-08.54.39:285][173]LogBlueprint: Error: [Compiler UI_Inventory_item] Failed to find a struct member for  Item Index
+[2018.04.22-08.54.39:306][173]LogBlueprint: Warning: [Compiler SlotSell] [1470,89] Compile of SlotSell failed. 1 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.SlotSell)
+[2018.04.22-08.54.39:306][173]LogBlueprint: Warning: [Compiler SlotShop] [1470,89] Compile of SlotShop failed. 1 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.SlotShop)
+[2018.04.22-08.54.39:306][173]LogBlueprint: Warning: [Compiler UI_Inventory_item] [1470,89] Compile of UI_Inventory_item failed. 3 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.UI_Inventory_item)
+[2018.04.22-08.55.13:474][ 11]BlueprintLog: New page: Compilar BP_StoreNPC
+[2018.04.22-08.55.28:242][384]LogSavePackage: Save=41.53ms
+[2018.04.22-08.55.28:242][384]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_StoreNPC6476C68C45D210EA1450D08809ABF194.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_StoreNPC.uasset'
+[2018.04.22-08.55.28:249][384]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_StoreNPC.uasset
+[2018.04.22-08.55.33:409][798]LogSavePackage: Save=28.26ms
+[2018.04.22-08.55.33:409][798]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_TalkingNPC2F5D87C84092C9A2B2D7D5A1380EBBB5.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_TalkingNPC.uasset'
+[2018.04.22-08.55.33:416][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/BP_TalkingNPC.uasset
+[2018.04.22-08.58.14:533][199]LogSavePackage: Save=400.21ms
+[2018.04.22-08.58.14:533][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_Auto2FD3118DA4226A859E01F6AB1C9A0C001.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.04.22-08.58.14:544][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.04.22-08.58.14:547][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.491
+[2018.04.22-08.58.14:548][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.491
+[2018.04.22-08.58.14:552][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.22-08.58.14:577][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.22-08.58.14:577][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.22-08.58.14:746][199]LogSavePackage: Save=151.22ms
+[2018.04.22-08.58.14:746][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter_Auto2A16B668E41E4AC53CB7D8A8AE1B88D11.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.04.22-08.58.14:758][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.04.22-08.58.14:761][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_interactable] ([1] browsable assets)...
+[2018.04.22-08.58.14:761][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_interactable]
+[2018.04.22-08.58.14:795][199]LogSavePackage: Save=17.03ms
+[2018.04.22-08.58.14:795][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_interactable_Auto2FB9BE91C4D2FB6E05A9657BE0F00EFAA.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_interactable_Auto2.uasset'
+[2018.04.22-08.58.14:805][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_interactable_Auto2.uasset
+[2018.04.22-08.58.14:807][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/InteractInterface] ([1] browsable assets)...
+[2018.04.22-08.58.14:807][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/InteractInterface]
+[2018.04.22-08.58.14:832][199]LogSavePackage: Save=7.50ms
+[2018.04.22-08.58.14:832][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InteractInterface_Auto2BD579E10472CB2403FF57D92B440BA43.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/InteractInterface_Auto2.uasset'
+[2018.04.22-08.58.14:836][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/InteractInterface_Auto2.uasset
+[2018.04.22-08.58.14:838][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Armor] ([1] browsable assets)...
+[2018.04.22-08.58.14:838][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Armor]
+[2018.04.22-08.58.14:865][199]LogSavePackage: Save=8.84ms
+[2018.04.22-08.58.14:865][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Armor_Auto23A8710894FACBA6069F3508B743A9F85.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto2.uasset'
+[2018.04.22-08.58.14:869][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto2.uasset
+[2018.04.22-08.58.14:871][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Consumible] ([1] browsable assets)...
+[2018.04.22-08.58.14:871][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Consumible]
+[2018.04.22-08.58.14:900][199]LogSavePackage: Save=11.19ms
+[2018.04.22-08.58.14:900][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Consumible_Auto2E7E467E7457DD57D75A39683D2B87B04.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto2.uasset'
+[2018.04.22-08.58.14:904][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto2.uasset
+[2018.04.22-08.58.14:906][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item] ([1] browsable assets)...
+[2018.04.22-08.58.14:906][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item]
+[2018.04.22-08.58.14:954][199]LogSavePackage: Save=28.34ms
+[2018.04.22-08.58.14:954][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/UI_Inventory_item_Auto20745324640B452867CD357BCCECC10C5.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item_Auto2.uasset'
+[2018.04.22-08.58.14:965][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item_Auto2.uasset
+[2018.04.22-08.58.14:979][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf] ([1] browsable assets)...
+[2018.04.22-08.58.14:979][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf]
+[2018.04.22-08.58.15:033][199]LogSavePackage: Save=35.75ms
+[2018.04.22-08.58.15:033][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_Interf_Auto24E914A23423CAED3DC004CB660F1EE3E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf_Auto2.uasset'
+[2018.04.22-08.58.15:049][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf_Auto2.uasset
+[2018.04.22-08.58.15:052][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell] ([1] browsable assets)...
+[2018.04.22-08.58.15:052][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell]
+[2018.04.22-08.58.15:104][199]LogSavePackage: Save=33.84ms
+[2018.04.22-08.58.15:104][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotSell_Auto2F031471A4FDBE0EC89A8BE9D80C3B5BA.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell_Auto2.uasset'
+[2018.04.22-08.58.15:118][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell_Auto2.uasset
+[2018.04.22-08.58.15:121][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop] ([1] browsable assets)...
+[2018.04.22-08.58.15:121][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop]
+[2018.04.22-08.58.15:198][199]LogSavePackage: Save=59.32ms
+[2018.04.22-08.58.15:198][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotShop_Auto208588E2540B76B9B6E1A568C6DB4A246.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop_Auto2.uasset'
+[2018.04.22-08.58.15:214][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop_Auto2.uasset
+[2018.04.22-08.58.15:216][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/cascoBasico] ([1] browsable assets)...
+[2018.04.22-08.58.15:216][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/cascoBasico]
+[2018.04.22-08.58.15:243][199]LogSavePackage: Save=8.71ms
+[2018.04.22-08.58.15:243][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/cascoBasico_Auto239F5D2B14D76B6F0BF67B9A6B4812F12.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto2.uasset'
+[2018.04.22-08.58.15:246][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto2.uasset
+[2018.04.22-08.58.15:248][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PocionBásica] ([1] browsable assets)...
+[2018.04.22-08.58.15:248][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PocionBásica]
+[2018.04.22-08.58.15:283][199]LogSavePackage: Save=16.76ms
+[2018.04.22-08.58.15:283][199]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/PocionBásica_Auto25D20C011497612DF309A0980C0D38E1C.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto2.uasset'
+[2018.04.22-08.58.15:287][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto2.uasset
+[2018.04.22-08.58.15:287][199]LogFileHelpers: Auto-saving content packages took 0.738
+[2018.04.22-09.03.45:388][833]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.22-09.03.45:894][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.22-09.03.46:400][835]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.22-09.05.42:727][472]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-09.10.54:367][747]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-09.15.33:335][112]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.22-09.17.13:294][545]LogSlate: Window 'Modificar tipo de variable' being destroyed
+[2018.04.22-09.17.13:300][545]LogClass: Warning: Property itemInfo of itemInfo has a struct type mismatch (tag ItemStruct != prop InventoryStruct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.04.22-09.17.15:343][751]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.04.22-09.17.15:345][751]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.04.22-09.18.25:474][973]BlueprintLog: New page: Compilar UI_Inventory_item
+[2018.04.22-09.18.25:500][973]LogBlueprint: Error: [Compiler UI_Inventory_item] La propiedad asociada con  Item Info  no se ha encontrado
+[2018.04.22-09.18.25:501][973]LogClass: Warning: Property inventoryInfo of inventoryInfo has a struct type mismatch (tag ItemStruct != prop InventoryStruct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.04.22-09.18.25:674][973]LogBlueprint: Warning: [Compiler UI_Inventory_item] [2897,25] Compile of UI_Inventory_item failed. 1 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.UI_Inventory_item)
+[2018.04.22-09.19.05:453][621]BlueprintLog: New page: Compilar UI_Inventory_item
+[2018.04.22-09.19.20:666][393]LogSavePackage: Save=29.62ms
+[2018.04.22-09.19.20:666][393]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/UI_Inventory_itemB6F60F3147F9FDDADF154BB1C98170C2.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.uasset'
+[2018.04.22-09.19.20:673][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/UI_Inventory_item.uasset
+[2018.04.22-09.19.24:984][758]LogSavePackage: Save=166.14ms
+[2018.04.22-09.19.24:984][758]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter9BDE201E4771E88E6442BC8713519A88.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.22-09.19.24:991][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.22-09.20.13:003][356]BlueprintLog: New page: Compilar MenuInterface
+[2018.04.22-09.20.19:555][ 75]BlueprintLog: New page: Compilar UI_Inventory_item
+[2018.04.22-09.20.24:450][571]LogSavePackage: Save=23.31ms
+[2018.04.22-09.20.24:450][571]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/MenuInterface7860330342A8D83C788E21B5235A53EE.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset'
+[2018.04.22-09.20.24:457][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/MenuInterface.uasset
+[2018.04.22-09.22.05:530][515]BlueprintLog: New page: Compilar SlotShop
+[2018.04.22-09.22.19:101][954]LogSavePackage: Save=41.02ms
+[2018.04.22-09.22.19:101][954]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotShop0CA8E16B43EF64BD1FEFBC8CBE39C0A8.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset'
+[2018.04.22-09.22.19:110][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset
+[2018.04.22-09.22.23:020][372]LogSavePackage: Save=35.06ms
+[2018.04.22-09.22.23:020][372]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_Interf08B86D6242223D2E1029CD8C8EFC7BB8.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset'
+[2018.04.22-09.22.23:027][372]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset
+[2018.04.22-09.22.55:561][145]BlueprintLog: New page: Compilar Shop_Interf
+[2018.04.22-09.22.56:367][217]LogSavePackage: Save=35.37ms
+[2018.04.22-09.22.56:367][217]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_Interf50346DC94FD1FBE098239E966813CB8B.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset'
+[2018.04.22-09.22.56:374][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset
+[2018.04.22-09.23.21:505][911]BlueprintLog: New page: Compilar SlotSell
+[2018.04.22-09.23.23:664][133]LogSavePackage: Save=35.23ms
+[2018.04.22-09.23.23:664][133]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotSell7064E7D04DE8BE43D99A8AA55C005AFE.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset'
+[2018.04.22-09.23.23:671][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset
+[2018.04.22-09.24.18:889][510]LogSavePackage: Save=396.66ms
+[2018.04.22-09.24.18:889][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_Auto3DB391DB449C57AB39471BE985FB4AEAE.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.04.22-09.24.18:897][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.04.22-09.24.18:901][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.480
+[2018.04.22-09.24.18:901][510]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.480
+[2018.04.22-09.24.18:905][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_interactable] ([1] browsable assets)...
+[2018.04.22-09.24.18:905][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_interactable]
+[2018.04.22-09.24.18:940][510]LogSavePackage: Save=16.99ms
+[2018.04.22-09.24.18:940][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_interactable_Auto3BD0CD1F345B6E63274AD65B1AF3A3FCB.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_interactable_Auto3.uasset'
+[2018.04.22-09.24.18:961][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_interactable_Auto3.uasset
+[2018.04.22-09.24.18:963][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/InteractInterface] ([1] browsable assets)...
+[2018.04.22-09.24.18:963][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/InteractInterface]
+[2018.04.22-09.24.18:988][510]LogSavePackage: Save=7.26ms
+[2018.04.22-09.24.18:988][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/InteractInterface_Auto39417BF714B8842754C0B5983D3668FCB.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/InteractInterface_Auto3.uasset'
+[2018.04.22-09.24.18:991][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/InteractInterface_Auto3.uasset
+[2018.04.22-09.24.18:993][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Armor] ([1] browsable assets)...
+[2018.04.22-09.24.18:993][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Armor]
+[2018.04.22-09.24.19:019][510]LogSavePackage: Save=8.59ms
+[2018.04.22-09.24.19:019][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Armor_Auto34DDA7D224FA13FF7FD2B3F8786C2D557.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto3.uasset'
+[2018.04.22-09.24.19:024][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Armor_Auto3.uasset
+[2018.04.22-09.24.19:026][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Consumible] ([1] browsable assets)...
+[2018.04.22-09.24.19:026][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Consumible]
+[2018.04.22-09.24.19:054][510]LogSavePackage: Save=10.52ms
+[2018.04.22-09.24.19:054][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/BP_Consumible_Auto3A7B8E2C84FC8A087FCDC10A223E1CA70.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto3.uasset'
+[2018.04.22-09.24.19:057][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Consumible_Auto3.uasset
+[2018.04.22-09.24.19:060][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf] ([1] browsable assets)...
+[2018.04.22-09.24.19:060][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf]
+[2018.04.22-09.24.19:112][510]LogSavePackage: Save=37.04ms
+[2018.04.22-09.24.19:113][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_Interf_Auto3FAE11CF448399F51324175B327B532A3.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf_Auto3.uasset'
+[2018.04.22-09.24.19:116][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf_Auto3.uasset
+[2018.04.22-09.24.19:119][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/cascoBasico] ([1] browsable assets)...
+[2018.04.22-09.24.19:119][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/cascoBasico]
+[2018.04.22-09.24.19:145][510]LogSavePackage: Save=8.29ms
+[2018.04.22-09.24.19:145][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/cascoBasico_Auto36721809E4833BC2AF94BF9A8AD31105E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto3.uasset'
+[2018.04.22-09.24.19:148][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/cascoBasico_Auto3.uasset
+[2018.04.22-09.24.19:150][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PocionBásica] ([1] browsable assets)...
+[2018.04.22-09.24.19:150][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PocionBásica]
+[2018.04.22-09.24.19:184][510]LogSavePackage: Save=15.63ms
+[2018.04.22-09.24.19:184][510]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/PocionBásica_Auto3A786F16949929B6343CCA5962D239096.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto3.uasset'
+[2018.04.22-09.24.19:187][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PocionBásica_Auto3.uasset
+[2018.04.22-09.24.19:187][510]LogFileHelpers: Auto-saving content packages took 0.285
+[2018.04.22-09.24.34:241][120]LogSavePackage: Save=40.24ms
+[2018.04.22-09.24.34:241][120]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotShop9842E6644F438AFB96E32DB3AC59A07E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset'
+[2018.04.22-09.24.34:245][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotShop.uasset
+[2018.04.22-09.24.38:835][585]BlueprintLog: New page: Compilar Shop_Interf
+[2018.04.22-09.24.40:059][685]LogSavePackage: Save=36.59ms
+[2018.04.22-09.24.40:059][685]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Shop_InterfFA06D5094268A343089B42981E2A2C42.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset'
+[2018.04.22-09.24.40:066][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.uasset
+[2018.04.22-09.25.10:688][ 35]BlueprintLog: New page: Compilar SlotSell
+[2018.04.22-09.25.11:316][ 83]LogSavePackage: Save=33.17ms
+[2018.04.22-09.25.11:316][ 83]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/SlotSellBFB17DAE43858AC4430D9CA22A2596FD.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset'
+[2018.04.22-09.25.11:322][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/SlotSell.uasset
+[2018.04.22-09.25.25:705][606]BlueprintLog: New page: Compilar Shop_Interf
+[2018.04.22-09.25.27:572][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.22-09.25.27:614][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-09.25.27:615][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.22-09.25.27:615][788]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (22/4/2018 13:25:27)
+[2018.04.22-09.25.27:615][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.22-09.25.27:661][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045367s)
+[2018.04.22-09.25.27:663][788]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.22-09.25.27:663][788]LogPlayLevel: PIE: World Init took: (0.002800s)
+[2018.04.22-09.25.27:664][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048435s)
+[2018.04.22-09.25.27:714][788]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.22-09.25.27:733][788]LogInit: FAudioDevice initialized.
+[2018.04.22-09.25.27:771][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.22-09.25.27:783][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.22-11.25.27
+[2018.04.22-09.25.27:786][788]LogWorld: Bringing up level for play took: 0.014176
+[2018.04.22-09.25.27:794][788]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,411
+[2018.04.22-09.25.27:795][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-09.25.31:757][955]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:758][955]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:758][955]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:758][955]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:759][955]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:759][955]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:759][955]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:759][955]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:760][955]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:760][955]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:760][955]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:760][955]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:761][955]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:761][955]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:761][955]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:761][955]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:762][955]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:762][955]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:762][955]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.31:762][955]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:844][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:844][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:845][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:846][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:847][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:847][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:847][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:847][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.33:847][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:213][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:213][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:214][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:214][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:215][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:215][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:215][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:216][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:216][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:216][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:217][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:217][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:217][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:217][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:218][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:218][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:218][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:219][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.34:219][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:761][313]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:761][313]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:762][313]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:762][313]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:762][313]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:762][313]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:762][313]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:763][313]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:764][313]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:764][313]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:764][313]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:764][313]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:764][313]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.39:765][313]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:067][327]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:067][327]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:067][327]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:067][327]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:068][327]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:068][327]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:068][327]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:068][327]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:069][327]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:069][327]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:069][327]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:070][327]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:070][327]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:070][327]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:070][327]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:071][327]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:071][327]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:071][327]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.40:072][327]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2018.04.22-09.25.43:322][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-09.25.43:350][477]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.22-09.25.43:427][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.22-09.25.53:980][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-09.26.14:083][ 94]LogSavePackage: Save=9.35ms
+[2018.04.22-09.26.14:083][ 94]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/cascoBasicoC3BE0EDE454ED07E16F53E93F277E8DE.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/cascoBasico.uasset'
+[2018.04.22-09.26.14:090][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/cascoBasico.uasset
+[2018.04.22-09.26.26:322][410]LogEditorViewport: Clicking on Actor (LMB): cascoBasico_C (cascoBasico)
+[2018.04.22-09.26.27:249][483]Cmd: DELETE
+[2018.04.22-09.26.27:249][483]Cmd: ACTOR DELETE
+[2018.04.22-09.26.27:259][483]LogEditorActor: Deleted Actor: cascoBasico_C
+[2018.04.22-09.26.27:295][483]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.04.22-09.26.28:930][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-09.26.43:070][661]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-09.26.46:090][748]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-09.26.47:943][864]LogSavePackage: Save=385.42ms
+[2018.04.22-09.26.47:943][864]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap7D4DE56240DCD6253DBF6AAA2DC56530.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.22-09.26.47:950][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.22-09.26.50:265][864]LogSavePackage: Save=2149.46ms
+[2018.04.22-09.26.50:265][864]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_BuiltData10C62F9C4140A1C49CF990812C4BFB37.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.22-09.26.50:270][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.22-09.26.53:311][938]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-09.26.54:799][ 77]LogEditorViewport: Clicking on Actor (LMB): PocionBásica_C (PocionBásica)
+[2018.04.22-09.26.57:070][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-09.27.00:549][524]LogUObjectArray: Warning: Other object in slot
+[2018.04.22-09.27.01:360][524]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.811 s
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: 
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: Stack: 
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C5FFBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C5D5AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C5D6ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C10E3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000BE2CB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000BD25C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000BD0E77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000BD0EAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000BD226E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C2346057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C234BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C257C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C23A0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C2378360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000C236B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000E461E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000E4611B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000E462052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000E460D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x000000000D99B85D USER32.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x000000000D99B1EF USER32.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000E4621666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000494E5475 UE4Editor.exe!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000494F6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x00000000494F6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x0000000049504149 UE4Editor.exe!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x0000000049505B57 UE4Editor.exe!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x000000000D6B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: [Callstack] 0x000000000E7EF061 ntdll.dll!UnknownFunction []
+[2018.04.22-09.27.01:360][524]LogOutputDevice: Error: 
+[2018.04.22-09.27.01:368][524]LogStats:                SubmitErrorReport -  0.000 s

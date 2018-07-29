@@ -1,0 +1,860 @@
+﻿Log file open, 04/23/18 19:23:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2018190967) SRandInit(-2018190967).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.134651
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.017s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-U3K421J (192.168.1.124:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.23-17.23.09:012][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-17.23.09:012][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.23-17.23.09:069][  0]LogInit: Computer: DESKTOP-U3K421J
+[2018.04.23-17.23.09:069][  0]LogInit: User: MiguelPelMedina
+[2018.04.23-17.23.09:069][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.23-17.23.09:069][  0]LogInit: High frequency timer resolution =3.117776 MHz
+[2018.04.23-17.23.09:069][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2018.04.23-17.23.09:069][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.23-17.23.09:069][  0]LogMemory: Process Physical Memory: 278.02 MB used, 278.02 MB peak
+[2018.04.23-17.23.09:069][  0]LogMemory: Process Virtual Memory: 265.77 MB used, 265.77 MB peak
+[2018.04.23-17.23.09:069][  0]LogMemory: Physical Memory: 4544.50 MB used,  1537.90 MB free, 6082.40 MB total
+[2018.04.23-17.23.09:069][  0]LogMemory: Virtual Memory: 663.45 MB used,  1537.90 MB free, 134217728.00 MB total
+[2018.04.23-17.23.09:087][  0]LogInit: Using OS detected language (es-ES).
+[2018.04.23-17.23.09:087][  0]LogInit: Using OS detected locale (es-ES).
+[2018.04.23-17.23.09:091][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.04.23-17.23.09:490][  0]LogStreaming: Display: Took  0.402s to EndInitTextLocalization.
+[2018.04.23-17.23.09:490][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.23-17.23.09:519][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.23-17.23.09:519][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.23-17.23.09:761][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.23-17.23.09:812][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 640' (Feature Level 11_0)
+[2018.04.23-17.23.09:812][  0]LogD3D11RHI:       2018/0/3041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.23-17.23.09:814][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.23-17.23.09:814][  0]LogD3D11RHI:       0/0/3041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.23-17.23.09:814][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.23-17.23.09:820][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.23-17.23.09:820][  0]LogD3D11RHI:     GPU DeviceId: 0xfc1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.23-17.23.09:820][  0]LogWindows: EnumDisplayDevices:
+[2018.04.23-17.23.09:820][  0]LogWindows:    0. 'NVIDIA GeForce GT 640' (P:1 D:1)
+[2018.04.23-17.23.09:821][  0]LogWindows:    1. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.23-17.23.09:821][  0]LogWindows:    2. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.23-17.23.09:821][  0]LogWindows:    3. 'NVIDIA GeForce GT 640' (P:0 D:0)
+[2018.04.23-17.23.09:821][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.23-17.23.09:821][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 640
+[2018.04.23-17.23.09:821][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.23-17.23.09:821][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.23-17.23.09:821][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.04.23-17.23.09:854][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.23-17.23.09:854][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.23-17.23.09:873][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.23-17.23.09:875][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Intermediate/Shaders/WorkingDirectory/6300/).
+[2018.04.23-17.23.09:875][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MiguelPelMedina/AppData/Local/Temp/UnrealShaderWorkingDir/5CBF06FF484F9500FBBE90A0D997F148/'.
+[2018.04.23-17.23.10:159][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.23-17.23.10:175][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.23-17.23.10:192][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.23-17.23.10:208][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.23-17.23.10:225][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.23-17.23.10:241][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.23-17.23.10:258][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.23-17.23.10:275][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.23-17.23.10:283][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.23-17.23.10:297][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.23-17.23.10:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.23-17.23.10:326][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.23-17.23.10:340][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.23-17.23.10:354][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.23-17.23.10:368][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.23-17.23.10:396][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.23-17.23.10:396][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.23-17.23.10:410][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.23-17.23.10:412][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.23-17.23.10:451][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.23-17.23.10:465][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.23-17.23.10:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.23-17.23.10:492][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.23-17.23.10:506][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.23-17.23.10:520][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.23-17.23.10:521][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.23-17.23.10:672][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.23-17.23.10:672][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.23-17.23.10:673][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.23-17.23.11:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.23-17.23.11:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.23-17.23.11:615][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.23-17.23.11:628][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.23-17.23.11:640][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.23-17.23.11:641][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.23-17.23.11:641][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-17.23.11:641][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-17.23.11:801][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.04.23-17.23.12:145][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-17.23.12:320][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.23-17.23.12:325][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.23-17.23.12:325][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.23-17.23.12:325][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.23-17.23.12:325][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.23-17.23.12:325][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.23-17.23.12:366][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.04.23-17.23.13:080][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.158235 seconds
+[2018.04.23-17.23.13:086][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.23-17.23.13:086][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.23-17.23.13:086][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.23-17.23.15:098][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.23-17.23.15:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.23-17.23.15:632][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.23-17.23.15:632][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.23-17.23.15:658][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.23-17.23.15:684][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.23-17.23.16:392][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.23-17.23.16:594][  0]LogOcInput: OculusInput pre-init called
+[2018.04.23-17.23.16:730][  0]LogEngine: Initializing Engine...
+[2018.04.23-17.23.16:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.23-17.23.16:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-17.23.16:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-17.23.16:980][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.23-17.23.16:997][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.23.17:016][  0]LogInit: FAudioDevice initialized.
+[2018.04.23-17.23.17:153][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/MiguelPelMedina/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.23-17.23.17:166][  0]LogInit: Texture streaming: Enabled
+[2018.04.23-17.23.17:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.23-17.23.17:214][  0]LogInit: Transaction tracking system initialized
+[2018.04.23-17.23.17:245][  0]BlueprintLog: New page: Cargar el editor
+[2018.04.23-17.23.17:357][  0]LocalizationService: Localization service is disabled
+[2018.04.23-17.23.17:486][  0]LogConsoleResponse: Display: 
+[2018.04.23-17.23.17:783][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.23-17.23.17:783][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.23-17.23.17:783][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.23-17.23.17:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-17.23.17:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-17.23.17:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/' took 0.02s
+[2018.04.23-17.23.18:289][  0]SourceControl: El control de código fuente está desactivado
+[2018.04.23-17.23.18:289][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-17.23.18:290][  0]LightingResults: New page: Diseñar la iluminación
+[2018.04.23-17.23.18:294][  0]MapCheck: New page: Revisión del mapa
+[2018.04.23-17.23.18:294][  0]LightingResults: New page: Diseñar la iluminación
+[2018.04.23-17.23.24:017][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [66.488419ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.23-17.23.24:557][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.23.24:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-17.23.24:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-17.23.24:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98,332ms to complete.
+[2018.04.23-17.23.24:977][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.688
+[2018.04.23-17.23.25:621][  0]LogCollectionManager: Loaded 0 collections in 0.002676 seconds
+[2018.04.23-17.23.25:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Collections/' took 0.01s
+[2018.04.23-17.23.25:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/Developers/MiguelPelMedina/Collections/' took 0.01s
+[2018.04.23-17.23.25:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/Collections/' took 0.01s
+[2018.04.23-17.23.25:715][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.23-17.23.25:734][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2452 classes and 558 folders.
+[2018.04.23-17.23.25:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.23.26:534][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.23.26:586][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.23-17.23.26:970][  0]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-17.23.26:974][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.23-17.23.27:014][  0]LogSlate: Took 0.011667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.23-17.23.27:436][  0]LogRenderer: Reallocating scene render targets to support 956x456 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-17.23.27:749][  0]LogSlate: Took 0.013403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.23-17.23.27:904][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.23.27:904][  0]LogLoad: (Engine Initialization) Total time: 22.80 seconds
+[2018.04.23-17.23.27:904][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.23-17.23.27:926][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.23-17.23.28:065][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.23-17.23.28:210][  1]LogAssetRegistry: Asset discovery search completed in 16.4318 seconds
+[2018.04.23-17.23.28:213][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.23-17.23.28:213][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.04.23-17.23.29:014][ 33]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.23-17.23.31:935][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.23.32:719][274]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.23-17.23.35:583][274]LogSlate: Took 0.006367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.23-17.23.36:325][275]LogSlate: Took 0.038747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.23-17.23.46:281][396]LogSlate: Window 'i_Pocion' being destroyed
+[2018.04.23-17.23.50:444][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2018.04.23-17.23.52:848][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.24.01:225][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.24.04:155][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.24.04:259][804]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.24.04:292][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.24.04:300][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.24.04:355][804]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:24:04)
+[2018.04.23-17.24.04:356][804]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.24.04:425][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069078s)
+[2018.04.23-17.24.04:426][804]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.24.04:426][804]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2018.04.23-17.24.04:426][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070706s)
+[2018.04.23-17.24.04:491][804]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.24.04:507][804]LogInit: FAudioDevice initialized.
+[2018.04.23-17.24.04:580][804]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.24.04:603][804]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.24.04
+[2018.04.23-17.24.04:691][804]LogWorld: Bringing up level for play took: 0.110267
+[2018.04.23-17.24.04:730][804]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.23-17.24.04:798][804]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,472
+[2018.04.23-17.24.04:799][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.24.23:259][263]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:259][263]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:259][263]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:260][263]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:261][263]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:261][263]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:261][263]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.23:261][263]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:897][404]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:897][404]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:897][404]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:897][404]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:897][404]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:898][404]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:899][404]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.24:899][404]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.26:434][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.24.31:874][982]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:874][982]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:875][982]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:876][982]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:876][982]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:876][982]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:876][982]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.31:876][982]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'K2Node_CustomEvent_Inventario' of length 2 in '/Game/ThirdPersonBP/Blueprints/interfaces/ShopInterfaces/Shop_Interf.Shop_Interf_C:ExecuteUbergraph_Shop_Interf'!
+[2018.04.23-17.24.35:731][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:731][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:731][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:731][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:731][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:744][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:744][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:744][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:744][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:744][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:753][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:753][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:753][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:753][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:753][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:764][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:764][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:764][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:764][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:764][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:773][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:773][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:774][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:774][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:774][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:785][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:785][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:785][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:785][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:785][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:796][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:796][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:796][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:796][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:796][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:806][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:806][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:806][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:806][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:806][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:818][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:818][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:818][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:818][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:818][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:829][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:829][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:829][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:829][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:829][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:839][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:839][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:839][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:839][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:839][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:849][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:849][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:849][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:849][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:849][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:859][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:859][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:859][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:859][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:859][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:873][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:873][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:873][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:873][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:873][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:883][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:883][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:883][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:883][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:883][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:891][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:891][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:891][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:891][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:891][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:902][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:902][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:902][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:902][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:902][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:912][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:912][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:912][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:912][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:912][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:923][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:923][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:923][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:923][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:923][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:933][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:934][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:934][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:934][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:934][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:944][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:944][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:944][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:944][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:944][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:956][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:956][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:956][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:956][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:956][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:966][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:966][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:966][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:966][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:966][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:976][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:976][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:976][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:977][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:977][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:987][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:987][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:987][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:987][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:987][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:997][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:997][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:997][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:998][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.35:998][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:009][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:009][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:009][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:009][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:009][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/Enimigos/Enemy.Enemy_C:ExecuteUbergraph_Enemy'!
+[2018.04.23-17.24.36:010][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.24.36:085][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.24.37:272][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.24.37:343][412]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.24.37:379][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.24.37:379][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.24.37:380][412]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:24:37)
+[2018.04.23-17.24.37:380][412]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.24.37:414][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033522s)
+[2018.04.23-17.24.37:415][412]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.24.37:416][412]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2018.04.23-17.24.37:416][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035670s)
+[2018.04.23-17.24.37:451][412]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.24.37:471][412]LogInit: FAudioDevice initialized.
+[2018.04.23-17.24.37:508][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.24.37:517][412]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.24.37
+[2018.04.23-17.24.37:520][412]LogWorld: Bringing up level for play took: 0.011389
+[2018.04.23-17.24.37:525][412]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,255
+[2018.04.23-17.24.37:525][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.25.11:345][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.25.11:391][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.32.49:450][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.33.28:779][172]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: La ruta debe comenzar con '/'
+[2018.04.23-17.33.28:779][172]LogLinker: Warning: No puede encontrar el archivo 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.04.23-17.33.28:790][172]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: La ruta debe comenzar con '/'
+[2018.04.23-17.33.28:790][172]LogLinker: Warning: No puede encontrar el archivo 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.04.23-17.33.28:795][172]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.04.23-17.33.29:548][258]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: La ruta debe comenzar con '/'
+[2018.04.23-17.39.42:669][826]BlueprintLog: New page: Compilar MainInterface
+[2018.04.23-17.39.44:233][968]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.39.44:270][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.39.44:270][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.39.44:271][968]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:39:44)
+[2018.04.23-17.39.44:271][968]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.39.44:304][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033440s)
+[2018.04.23-17.39.44:306][968]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.39.44:307][968]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2018.04.23-17.39.44:307][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036354s)
+[2018.04.23-17.39.44:348][968]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.39.44:364][968]LogInit: FAudioDevice initialized.
+[2018.04.23-17.39.44:415][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.39.44:427][968]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.39.44
+[2018.04.23-17.39.44:430][968]LogWorld: Bringing up level for play took: 0.014185
+[2018.04.23-17.39.44:440][968]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,17
+[2018.04.23-17.39.44:441][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.39.44:485][968]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-17.39.54:429][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.39.54:456][399]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.39.54:497][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.40.01:681][225]BlueprintLog: New page: Compilar MainInterface
+[2018.04.23-17.40.02:506][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.40.02:542][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.40.02:542][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.40.02:542][296]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:40:02)
+[2018.04.23-17.40.02:543][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.40.02:582][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039334s)
+[2018.04.23-17.40.02:584][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.40.02:585][296]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2018.04.23-17.40.02:585][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041858s)
+[2018.04.23-17.40.02:621][296]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.40.02:642][296]LogInit: FAudioDevice initialized.
+[2018.04.23-17.40.02:684][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.40.02:696][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.40.02
+[2018.04.23-17.40.02:698][296]LogWorld: Bringing up level for play took: 0.013220
+[2018.04.23-17.40.02:708][296]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,563
+[2018.04.23-17.40.02:708][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.40.09:649][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.40.09:675][593]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.40.09:717][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.41.01:431][665]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.23-17.41.20:945][876]BlueprintLog: New page: Compilar MainInterface
+[2018.04.23-17.41.21:593][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.41.21:627][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.41.21:628][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.41.21:628][922]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:41:21)
+[2018.04.23-17.41.21:628][922]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.41.21:664][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036570s)
+[2018.04.23-17.41.21:666][922]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.41.21:667][922]LogPlayLevel: PIE: World Init took: (0.002771s)
+[2018.04.23-17.41.21:668][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039765s)
+[2018.04.23-17.41.21:709][922]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.41.21:727][922]LogInit: FAudioDevice initialized.
+[2018.04.23-17.41.21:767][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.41.21:779][922]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.41.21
+[2018.04.23-17.41.21:782][922]LogWorld: Bringing up level for play took: 0.013901
+[2018.04.23-17.41.21:792][922]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,522
+[2018.04.23-17.41.21:792][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.41.33:111][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.41.33:136][422]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.41.33:180][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.42.57:731][356]LogEditorTransaction: Undo Mover nodo
+[2018.04.23-17.42.58:038][378]LogEditorTransaction: Undo Dividir Pin de estructura
+[2018.04.23-17.42.58:498][420]LogEditorTransaction: Undo Añadir nodo
+[2018.04.23-17.42.58:784][435]LogEditorTransaction: Undo Mover nodo
+[2018.04.23-17.42.59:080][458]LogEditorTransaction: Undo Añadir nodo
+[2018.04.23-17.42.59:539][498]LogEditorTransaction: Undo Crear enlace del Pin
+[2018.04.23-17.42.59:838][523]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.23-17.43.00:166][547]LogEditorTransaction: Undo Delete current selection
+[2018.04.23-17.43.00:436][568]LogEditorTransaction: Undo Añadir nodo
+[2018.04.23-17.43.00:678][583]LogEditorTransaction: Undo Delete current selection
+[2018.04.23-17.43.02:974][815]BlueprintLog: New page: Compilar MainInterface
+[2018.04.23-17.43.04:956][  2]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.43.04:990][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.43.04:991][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.43.04:991][  2]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:43:04)
+[2018.04.23-17.43.04:991][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.43.05:037][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045830s)
+[2018.04.23-17.43.05:037][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.43.05:038][  2]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2018.04.23-17.43.05:038][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046963s)
+[2018.04.23-17.43.05:069][  2]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.43.05:084][  2]LogInit: FAudioDevice initialized.
+[2018.04.23-17.43.05:128][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.43.05:140][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.43.05
+[2018.04.23-17.43.05:142][  2]LogWorld: Bringing up level for play took: 0.013921
+[2018.04.23-17.43.05:152][  2]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,119
+[2018.04.23-17.43.05:152][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.43.22:996][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.43.23:024][811]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.43.23:067][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.44.24:221][645]LogSavePackage: Save=534.48ms
+[2018.04.23-17.44.24:221][645]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_Auto1F343FF0B47310ED26F767FB8069C460B.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.23-17.44.24:241][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.23-17.44.24:265][645]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.877
+[2018.04.23-17.44.24:265][645]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.877
+[2018.04.23-17.44.24:319][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface] ([1] browsable assets)...
+[2018.04.23-17.44.24:319][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface]
+[2018.04.23-17.44.24:416][645]LogSavePackage: Save=84.40ms
+[2018.04.23-17.44.24:416][645]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/MainInterface_Auto1ABB5584C468B2D0613D299B1C0B8BBC9.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface_Auto1.uasset'
+[2018.04.23-17.44.24:469][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface_Auto1.uasset
+[2018.04.23-17.44.24:469][645]LogFileHelpers: Auto-saving content packages took 0.204
+[2018.04.23-17.44.50:070][902]LogSavePackage: Save=358.65ms
+[2018.04.23-17.44.50:070][902]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap803A2C4F4B69F9E3F8365191615986A2.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.44.50:080][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.44.52:860][902]LogSavePackage: Save=2211.20ms
+[2018.04.23-17.44.52:860][902]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap_BuiltDataCBB35B354A9B9707AD815FAA5B6B600E.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.44.52:864][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.45.47:453][976]LogSavePackage: Save=83.52ms
+[2018.04.23-17.45.47:453][976]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/MainInterface7CFC0681448D5984EE61BCAF201FE528.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface.uasset'
+[2018.04.23-17.45.47:465][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/userInterface/MainInterface.uasset
+[2018.04.23-17.54.59:860][950]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2018.04.23-17.55.01:992][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.55.02:079][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.02:079][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.55.02:079][ 49]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:55:02)
+[2018.04.23-17.55.02:079][ 49]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.55.02:119][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040062s)
+[2018.04.23-17.55.02:121][ 49]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.55.02:122][ 49]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2018.04.23-17.55.02:122][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042717s)
+[2018.04.23-17.55.02:164][ 49]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.55.02:182][ 49]LogInit: FAudioDevice initialized.
+[2018.04.23-17.55.02:218][ 49]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.55.02:229][ 49]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.55.02
+[2018.04.23-17.55.02:233][ 49]LogWorld: Bringing up level for play took: 0.014552
+[2018.04.23-17.55.02:239][ 49]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,969
+[2018.04.23-17.55.02:240][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.08:096][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.08:123][293]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.55.08:199][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.09:234][364]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-17.55.09:272][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.09:272][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.55.09:272][364]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:55:09)
+[2018.04.23-17.55.09:272][364]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.55.09:312][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039879s)
+[2018.04.23-17.55.09:314][364]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.55.09:314][364]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2018.04.23-17.55.09:314][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042249s)
+[2018.04.23-17.55.09:347][364]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.55.09:362][364]LogInit: FAudioDevice initialized.
+[2018.04.23-17.55.09:414][364]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.55.09:424][364]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.55.09
+[2018.04.23-17.55.09:427][364]LogWorld: Bringing up level for play took: 0.012534
+[2018.04.23-17.55.09:443][364]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,173
+[2018.04.23-17.55.09:444][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.55.27:829][ 77]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.830 s
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: 
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: Ensure condition failed: LevelViewport.IsValid() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp] [Line: 3402]
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: 
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: Stack: 
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C906BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C8DCAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C8DDECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C6FBF01D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C6A2C971 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x00000000C72C9526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x0000000067AF5EAC UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x0000000067B06BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x0000000067B06C4A UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x0000000067B14149 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x0000000067B15B57 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x000000000D6B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.23-17.55.27:829][ 77]LogOutputDevice: Error: [Callstack] 0x000000000E7EF061 ntdll.dll!UnknownFunction []
+[2018.04.23-17.55.27:830][ 77]LogOutputDevice: Error: 
+[2018.04.23-17.55.27:839][ 77]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.23-17.55.33:469][ 77]LogStats:                    SendNewReport -  5.630 s
+[2018.04.23-17.55.33:469][ 77]LogStats:             FDebug::EnsureFailed -  6.473 s
+[2018.04.23-17.56.00:549][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.56.00:602][150]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.56.00:618][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.56.00:700][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.56.07:222][522]LogSlate: Window 'Guardar contenido' being destroyed
+[2018.04.23-17.56.07:305][522]LogSavePackage: Save=39.64ms
+[2018.04.23-17.56.07:305][522]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/UI_Inventory_item4D90E9E242036F93AEC9DFBB383397B6.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/userInterface/UI_Inventory_item.uasset'
+[2018.04.23-17.56.07:312][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/interfaces/userInterface/UI_Inventory_item.uasset
+[2018.04.23-17.56.07:587][522]LogSavePackage: Save=205.52ms
+[2018.04.23-17.56.07:587][522]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter17AD81D442D9463466CBB1B1BB92EFFF.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.23-17.56.07:594][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.23-17.56.08:128][522]LogSavePackage: Save=358.93ms
+[2018.04.23-17.56.08:128][522]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonExampleMap606676344B72E509C41B10ADC63B6F28.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.56.08:136][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.56.08:182][522]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.584
+[2018.04.23-17.56.15:776][135]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2018.04.23-17.56.22:643][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.56.22:643][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.56.22:644][647]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (23/4/2018 21:56:22)
+[2018.04.23-17.56.22:644][647]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.56.22:681][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036997s)
+[2018.04.23-17.56.22:682][647]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.56.22:683][647]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2018.04.23-17.56.22:683][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039156s)
+[2018.04.23-17.56.22:721][647]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.56.22:735][647]LogInit: FAudioDevice initialized.
+[2018.04.23-17.56.22:785][647]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.56.22:795][647]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-19.56.22
+[2018.04.23-17.56.22:797][647]LogWorld: Bringing up level for play took: 0.011666
+[2018.04.23-17.56.22:813][647]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,457
+[2018.04.23-17.56.22:813][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.56.44:542][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.56.44:569][612]LogSlate: Window 'MyProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.56.44:641][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.57.13:020][239]LogSavePackage: Save=169.35ms
+[2018.04.23-17.57.13:020][239]LogSavePackage: Moving '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Saved/ThirdPersonCharacter27B8FD2D4EEA0391DBDC5085AA58902A.tmp' to '../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.23-17.57.13:026][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MiguelPelMedina/Documents/ProyectoUreal/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.23-17.57.16:757][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.04.23-17.57.16:811][618]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: 
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: Stack: 
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C906BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C8DCAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C8DDECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C6E63DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000BB59B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000BA61C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000BA4A77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000BA4AAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000BA5E6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C80C6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C80CBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C82FC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:811][618]LogOutputDevice: Error: [Callstack] 0x00000000C8120475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000C80F8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000C80EB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000EC66E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000EC661B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000EC67052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000EC65D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x000000000D99B85D USER32.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x000000000D99B1EF USER32.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x00000000EC671666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x0000000067AF5475 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x0000000067B06BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x0000000067B06C4A UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x0000000067B14149 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x0000000067B15B57 UE4Editor.exe!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x000000000D6B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: [Callstack] 0x000000000E7EF061 ntdll.dll!UnknownFunction []
+[2018.04.23-17.57.16:812][618]LogOutputDevice: Error: 
+[2018.04.23-17.57.16:823][618]LogStats:                SubmitErrorReport -  0.000 s
